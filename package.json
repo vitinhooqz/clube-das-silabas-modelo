@@ -1,0 +1,14 @@
+{
+  "name": "clube-das-silabas",
+  "version": "1.0.0",
+  "description": "Clube das Sílabas — 250 Atividades de Alfabetização Infantil em PDF",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build complete')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
